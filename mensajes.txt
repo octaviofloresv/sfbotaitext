@@ -1,9 +1,14 @@
-mensaje_bienvenida : 👋 ¡Hola! Como es la primera vez que hablamos me presento.
-Soy Savvy, la asesora de IA de SoyFocus. 🤖 ¿Necesitas ayuda con tus finanzas? Aquí estoy para ayudarte. Puedo:
+mensaje_bienvenida : 🖖 ¡Hola desde el otro lado de la pantalla! Soy Savvy, la asesoría de IA de SoyFocus, y me crearon para ayudarte con tus finanzas 🤖. Cuento con diversas herramientas que te ayudarán a organizar tu dinero de forma entretenida y rápida. Ahora, ¿te preguntas qué puedo hacer?
 
-1️⃣ Ayudarte a clasificar tus gastos
-2️⃣ Responder preguntas sobre tus gastos, del tipo Cuánto gaste los últimos 30 días?,  Cuánto he gastado en 2023
-3️⃣ Resolver cualquier duda que tengas sobre SoyFocus o finanzas en general.
 
-Si en algún momento quieres volver a esta pantalla, simplemente di "Hola Savvy". ¡Comencemos! 💰;
+💸 Ayudarte a registrar y clasificar tus gastos
+
+👛 Ayudarte a revisar cuánto has gastado, ya sea en los últimos días o en el año
+
+🤔 Responder dudas que tengas sobre SoyFocus o finanzas en general
+
+⏰ Recordarte fechas importantes, como el cumpleaños de tu amigo o el momento de realizar una inversión
+ 
+
+¿Sabes cómo hacer un presupuesto? ¿quieres registrar los $6.000 del almuerzo? ¿Quieres saber lo que significa que SoyFocus sea una AGF? Entonces pregúntame y te daré la respuesta 🔮;
 mensaje_prueba : esto es una prueba;
