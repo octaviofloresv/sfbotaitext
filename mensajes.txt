@@ -1,1 +1,2 @@
-mensaje_bienvenida: eso es una prueba
+mensaje_bienvenida : eso es una prueba
+mensaje_prueba : esto es una prueba
