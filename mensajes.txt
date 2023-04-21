@@ -3,7 +3,7 @@ mensaje_bienvenida : 🖖 ¡Hola desde el otro lado de la pantalla! Soy Savvy, l
 
 💸 Ayudarte a registrar y clasificar tus gastos
 
-👛 Ayudarte a revisar cuánto has gastado, ya sea en los últimos días o en el año
+👛 Ayudarte a encontrar descuentos para disminuir tus gastos
 
 🤔 Responder dudas que tengas sobre SoyFocus o finanzas en general
 
